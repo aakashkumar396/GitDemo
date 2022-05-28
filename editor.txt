@@ -1,0 +1,1 @@
+This is sample to check whether notepad command is working or not.
